@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module topleveltb.uut.ROM.inst.\native_mem_module.blk_mem_gen_v8_4_6_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module topleveltb.uut.RAM.inst.\native_mem_module.blk_mem_gen_v8_4_6_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+$finish called at time : 420 ns : File "C:/Users/d3019/OneDrive/Desktop/Vivado Projects/FINAL/ECE414.srcs/sim_1/new/topleveltb.v" Line 43

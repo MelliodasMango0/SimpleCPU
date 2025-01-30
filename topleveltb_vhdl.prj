@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ECE414.srcs/sources_1/imports/top_level/UART_TX_CTRL.vhd" \
+
+# Do not sort compile order
+nosort

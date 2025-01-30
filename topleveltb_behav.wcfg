@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="topleveltb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="topleveltb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="420.001 ns"></ZoomEndTime>
+      <Cursor1Time time="412.040 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="245"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/topleveltb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/UART_TX" type="logic">
+      <obj_property name="ElementShortName">UART_TX</obj_property>
+      <obj_property name="ObjectShortName">UART_TX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/PC_data" type="array">
+      <obj_property name="ElementShortName">PC_data[5:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_data[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[15:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/opcodewire" type="array">
+      <obj_property name="ElementShortName">opcodewire[3:0]</obj_property>
+      <obj_property name="ObjectShortName">opcodewire[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/rdwire" type="array">
+      <obj_property name="ElementShortName">rdwire[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rdwire[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/offset" type="array">
+      <obj_property name="ElementShortName">offset[7:0]</obj_property>
+      <obj_property name="ObjectShortName">offset[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/branch" type="logic">
+      <obj_property name="ElementShortName">branch</obj_property>
+      <obj_property name="ObjectShortName">branch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/data_to_ram" type="array">
+      <obj_property name="ElementShortName">data_to_ram[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_to_ram[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/dp/AA" type="array">
+      <obj_property name="ElementShortName">AA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AA[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/dp/z" type="logic">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/cu/zflag" type="logic">
+      <obj_property name="ElementShortName">zflag</obj_property>
+      <obj_property name="ObjectShortName">zflag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/enable_ram_read" type="logic">
+      <obj_property name="ElementShortName">enable_ram_read</obj_property>
+      <obj_property name="ObjectShortName">enable_ram_read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/dp/Abus" type="array">
+      <obj_property name="ElementShortName">Abus[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Abus[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/dp/MBbus" type="array">
+      <obj_property name="ElementShortName">MBbus[15:0]</obj_property>
+      <obj_property name="ObjectShortName">MBbus[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/topleveltb/uut/dummy_unit1/dp/Data_in" type="array">
+      <obj_property name="ElementShortName">Data_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_in[15:0]</obj_property>
+   </wvobject>
+</wave_config>
